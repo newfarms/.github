@@ -9,5 +9,5 @@ is located in Edmonton, Alberta. Western Canada is rich with the technical talen
 and conveniently located near the customer base we plan to serve. There is no better location in the world to develop digital-AG technologies 
 than in Western Canada.
 
-[<span style="margin-right: 130px;"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/youtube.svg" width="50" height="50"/></span>]()
-[<span style="margin-right: 30px;"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/twitter.svg" width="50" height="50"/></span>]()
+[<span style="margin-right: 130px;"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/youtube.svg" width="50" height="50"/></span>](https://www.youtube.com/@mojowautonomoussolutionsin1911)
+[<span style="margin-right: 30px;"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/twitter.svg" width="50" height="50"/></span>](https://twitter.com/mojowmojow)
