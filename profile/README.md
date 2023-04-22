@@ -11,3 +11,7 @@ than in Western Canada.
 
 [<span style="margin-right: 130px;"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/youtube.svg" width="50" height="50"/></span>](https://www.youtube.com/@mojowautonomoussolutionsin1911)
 [<span style="margin-right: 30px;"><img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/twitter.svg" width="50" height="50"/></span>](https://twitter.com/mojowmojow)
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=olkAExqflhU" target="_blank"/><img src="https://img.youtube.com/vi/olkAExqflhU/0.jpg"/></a>
+</p>
