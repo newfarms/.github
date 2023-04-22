@@ -1,4 +1,4 @@
-![Screenshot 2023-04-21 at 5 20 03 PM](https://user-images.githubusercontent.com/15491614/233748043-800d202c-8bcd-4855-a492-76af8de49bba.png)
+<a href="http://www.mojow.ai/" target="_blank"/><img src="https://user-images.githubusercontent.com/15491614/233748043-800d202c-8bcd-4855-a492-76af8de49bba.png"/></a>
 
 Mojow Autonomous Solutions Inc. is currently developing an autonomous tractor. Our focus is to help farmers in the following areas:
 - Improving the efficiency and effectiveness of human labor
