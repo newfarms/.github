@@ -4,7 +4,7 @@ Mojow Autonomous Solutions Inc. is currently developing an autonomous tractor. O
 - Improving the efficiency and effectiveness of human labor
 - Supporting the successful deployment of autonomous farm machinery
 
-Mojow was incorporated in February of 2020. Our corperate office is located in White City Saskatchewan, and the main software development office 
+Mojow was incorporated in February of 2020. Our corporate office is located in White City Saskatchewan, and the main software development office 
 is located in Edmonton, Alberta. Western Canada is rich with the technical talent necessary for our highly specialized software development needs, 
 and conveniently located near the customer base we plan to serve. There is no better location in the world to develop digital-AG technologies 
 than in Western Canada.
